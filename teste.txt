@@ -1,6 +1,10 @@
 POLLY POC
 <<<<<<< HEAD
+<<<<<<< HEAD
 pollyapoc@gmail.com
 40028922
 =======
 >>>>>>> parent of e0cff9b... Commitei toda 2.0
+=======
+pollyapoc@gmail.com
+>>>>>>> parent of 6a23f49... Commitei toda 3.0
