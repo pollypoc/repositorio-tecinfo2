@@ -1,3 +1,6 @@
 POLLY POC
+<<<<<<< HEAD
 pollyapoc@gmail.com
 40028922
+=======
+>>>>>>> parent of e0cff9b... Commitei toda 2.0
